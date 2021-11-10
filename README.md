@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome, friend! 🚀
 
-<!--
-**Acidic9/acidic9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ari**, a fellow developer currently traveling light. ✈️
 
-Here are some ideas to get you started:
+Previously working for some companies involed web development & crypto, I am now developing my own projects and am open to collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on something revolutionary (you will know soon when I'm famous 🙃).
+- 🌱 I’m currently on a jouney in the world of event driven architecture & event sourcing.
+- 👯 I’m looking to collaborate on anything (get in touch).
+- 🦀 I'm a proud Rustacean.
+- 📫 How to reach me:
+  - website: [ariseyhun.com](https://www.ariseyhun.com)
+  - email: [ariseyhun@live.com](mailto:ariseyhun@live.com.au)
+  - discord: `ari.s#9537`
+
+
+![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=acidic9&count_private=true&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acidic9&layout=compact&theme=github_dark&hide=html,css)
