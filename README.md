@@ -17,5 +17,5 @@ Previously working for some companies involed web development & crypto, I am now
 ![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=acidic9&count_private=true&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acidic9&layout=compact&theme=github_dark&hide=html,css)
 
 <a href="https://discordapp.com/users/232034545774362624">
-  <img src="discord-card.png" width="100%" />
+  <img src="discord.png" width="50%" />
 </a>
