@@ -1,21 +1,31 @@
-### Welcome, friend! 🚀
+<h2 align="center">Ari Seyhun</h2>
+<p align="center">Developer &lt;/&gt; | Self Employed 💯 | Rustacean 🦀</p>
 
-I'm **Ari**, a fellow developer currently traveling light. ✈️
+Hi 👋
 
-Previously working for some companies involed web development & crypto, I am now developing my own projects and am open to collaboration.
+I'm **Ari**, a fellow developer currently traveling. ✈️ My office has been a cafe in Jakarta.
 
-- 🔭 I’m currently working on something revolutionary (you will know soon when I'm famous 🙃).
-- 🌱 I’m currently on a jouney in the world of event driven architecture & event sourcing.
-- 👯 I’m looking to collaborate on anything (get in touch).
-- 🦀 I'm a proud Rustacean.
-- 📫 How to reach me:
+Previously, I've worked for some companies involved with web development & crypto, and now am developing my own projects as self employed.
+
+- 🔭 I’m currently working on [Thalo](https://github.com/thalo-rs/thalo) and tools build around event sourcing.
+- 🦀 I'm a Rustacean, passionate about evolving the Rust ecosystem and excited about the future of WebAssembly & WASI.
+- 👯 I’m open to collaborate, feel free to get in touch.
+
+#### Get in touch 📫
+
   - website: [ariseyhun.com](https://www.ariseyhun.com)
   - email: [ariseyhun@live.com](mailto:ariseyhun@live.com.au)
-  - discord: `ari.s#9537`
+  - discord: [`ari.s#9537`](https://discordapp.com/users/232034545774362624)
 
+---
 
 ![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=tqwewe&count_private=true&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tqwewe&layout=compact&theme=github_dark&hide=html,css)
 
 <a href="https://discordapp.com/users/232034545774362624">
-  <img src="discord.png" width="50%" />
+  <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" width="32" />
 </a>
+
+<a href="https://github.com/thalo-rs/thalo">
+  <img src="https://raw.githubusercontent.com/thalo-rs/thalo/dev/logo.png" width="36" />
+</a>
+
