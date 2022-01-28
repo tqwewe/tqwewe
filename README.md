@@ -13,7 +13,6 @@ Previously, I've worked for some companies involved with web development & crypt
 
 #### Get in touch 📫
 
-  - website: [ariseyhun.com](https://www.ariseyhun.com)
   - email: [ariseyhun@live.com](mailto:ariseyhun@live.com.au)
   - discord: [`ari.s#9537`](https://discordapp.com/users/232034545774362624)
 
