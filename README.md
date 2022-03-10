@@ -3,7 +3,7 @@
 
 <br />
 
-👋 I'm **Ari**, a fellow developer currently traveling. ✈️ My office has been a cafe in Jakarta.
+👋 I'm **Ari**, a fellow developer located in Australia currently diving into Event Sourcing in Rust & recently Bevy game engine.
 
 Previously, I've worked for some companies involved with web development & crypto, and now am developing my own projects as self employed.
 
