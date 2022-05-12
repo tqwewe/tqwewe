@@ -31,6 +31,6 @@ Previously, I've worked for some companies involved with web development & crypt
 </a>
 
 <a href="https://github.com/thalo-rs/thalo">
-  <img src="https://raw.githubusercontent.com/thalo-rs/thalo/dev/logo.png" width="36" />
+  <img src="https://raw.githubusercontent.com/thalo-rs/thalo/main/logo.png" width="36" />
 </a>
 
