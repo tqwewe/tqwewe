@@ -3,7 +3,7 @@
 
 <br />
 
-👋 I'm **Ari**, a fellow developer located in Australia currently diving into Event Sourcing in Rust & recently Bevy game engine.
+👋 I'm **Ari**, a fellow developer located in Australia currently working on [Lunatic, an Erlang-inspired runtime for WebAssembly](https://github.com/lunatic-solutions/lunatic).
 
 Previously, I've worked for some companies involved with web development & crypto, and now am developing my own projects as self employed.
 
