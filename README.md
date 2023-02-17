@@ -1,5 +1,5 @@
 <h2 align="center">Ari Seyhun</h2>
-<p align="center">Developer &lt;/&gt; | Self Employed 💯 | Rustacean 🦀</p>
+<p align="center">Developer &lt;/&gt; | Open Source Enthusiast :sparkles: | Rustacean 🦀</p>
 
 <br />
 
