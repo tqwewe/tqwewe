@@ -16,7 +16,7 @@ Previously, I've worked for some companies involved with web development & crypt
 #### Get in touch 📫
 
   - email: [ariseyhun@live.com.au](mailto:ariseyhun@live.com.au)
-  - discord: [`ari.s#0001`](https://discordapp.com/users/232034545774362624)
+  - discord: [`tqwewe`](https://discordapp.com/users/232034545774362624)
 
 ---
 
